@@ -1,6 +1,10 @@
 {
   "name": "micro-front-end",
   "version": "1.0.0",
+  "author": {
+    "name": "Luis Navarro Carter",
+    "email": "lnavarro.carter@gmail.com"
+  },
   "scripts": {
     "ng": "ng",
     "start": "npm run start:shell",
